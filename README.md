@@ -33,10 +33,12 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ## Description:
 
-I created a **movie discovery** app that will recommend random movies by genre. 
-You’ll be able to choose from several genres, and like or dislike a movie to get another suggestion.
+I created a **movie discovery** app that will recommend **random movies** by genre. 
+You’ll be able to choose from several genres, and **like** or **dislike** a movie to get another suggestion.
 
 ## Technologies used:
 
-For this app I used "The Movie Database API" of https://www.themoviedb.org/ to gather the genres of movies, and then to query the movies by genre.
+For this app I used "**The Movie Database API**" of https://www.themoviedb.org/ to gather the genres of movies, and then to query the movies by genre.
+
+![Image](./resources/pictureExample.png)
 
